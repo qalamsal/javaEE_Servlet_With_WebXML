@@ -6,25 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e72f0b1b-1d90-45b0-9fa1-aec3337ea32e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/san/servlets/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/display.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ServletInroWebXml_war_exploded/WEB-INF/classes/san/servlets/AddingServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ServletInroWebXml_war_exploded/WEB-INF/classes/san/servlets/AddingServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ServletInroWebXml_war_exploded/WEB-INF/classes/san/servlets/SubtractServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ServletInroWebXml_war_exploded/WEB-INF/classes/san/servlets/SubtractServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ServletInroWebXml_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ServletInroWebXml_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ServletInroWebXml_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ServletInroWebXml_war_exploded/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ServletInroWebXml/META-INF/ServletInroWebXml.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ServletInroWebXml/san/servlets/AddingServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ServletInroWebXml/san/servlets/AddingServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ServletInroWebXml/san/servlets/SubtractServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ServletInroWebXml/san/servlets/SubtractServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/san/servlets/AddingServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/san/servlets/AddingServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/san/servlets/SubtractServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/san/servlets/SubtractServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="e72f0b1b-1d90-45b0-9fa1-aec3337ea32e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -374,7 +356,7 @@
       <workItem from="1603130925177" duration="335000" />
       <workItem from="1610553549055" duration="2248000" />
       <workItem from="1610574829916" duration="819000" />
-      <workItem from="1610641128389" duration="1967000" />
+      <workItem from="1610641128389" duration="2377000" />
     </task>
     <servers />
   </component>
@@ -391,6 +373,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/1920.-1081.1920.1040/0.-1080.1920.1040@0.0.1366.728" timestamp="1610553556300" />
+    <state x="452" y="-963" key="CommitChangelistDialog2" timestamp="1610643570426">
+      <screen x="-116" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="452" y="-963" key="CommitChangelistDialog2/1804.-1082.1920.1040/-116.-1080.1920.1040/0.0.1366.728@-116.-1080.1920.1040" timestamp="1610643570426" />
     <state width="1921" height="389" key="GridCell.Tab.0.bottom" timestamp="1610642804451">
       <screen x="-116" y="-1080" width="1920" height="1040" />
     </state>
